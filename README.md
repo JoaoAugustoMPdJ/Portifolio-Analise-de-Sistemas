@@ -3,8 +3,8 @@
 Olá! Sou João Augusto, recém-formado em Análise e Desenvolvimento de Sistemas, 
 com foco em análise de requisitos, modelagem de dados e SQL.
 
-Este portfólio reúne projetos acadêmicos e estudos de caso, 
-destacando o processo de análise de sistemas e estruturação de bancos de dados.
+Este portfólio reúne projetos pessoais e estudos de caso, 
+destacando o processo de análise de sistemas, estruturação de bancos de dados e analise de dados com Python.
 
 ## Áreas de Atuação
 - Levantamento e documentação de requisitos
