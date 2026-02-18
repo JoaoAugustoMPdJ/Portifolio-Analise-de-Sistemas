@@ -1,0 +1,7 @@
+RELATORIO SUPERSTORE
+
+Vendas Totais: 2296194.59
+Lucro Total: 286238.45
+Ticket Medio: 230.15
+Quantidade Total Vendida: 37820
+Margem de Lucro: 12.47%
