@@ -79,7 +79,7 @@ Avaliação da relação entre descontos aplicados e lucro obtido.
 ## Como Executar o Projeto
 
 ### 1. Clonar o repositório
-git clone Analise de Dados/Analise de Vendas (Python + Power BI)
+git clone [Analise de Dados/Analise de Vendas (Python + Power BI)](https://github.com/JoaoAugustoMPdJ/Portifolio-Analise-de-Sistemas/tree/2badd03f23014a2751fca797d557b5b01a9f9a7f/Analise%20de%20Dados/Analise%20de%20Vendas%20(Python%20%2B%20Power%20BI))
 
 ### 2. Instalar dependências
 pip install pandas matplotlib
@@ -109,5 +109,6 @@ Este projeto faz parte do meu portfólio profissional com foco em oportunidades 
 - Analista de Dados Júnior  
 - Business Intelligence  
 - Data Analyst  
+
 
 
