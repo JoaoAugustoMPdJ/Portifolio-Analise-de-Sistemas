@@ -79,7 +79,7 @@ Avaliação da relação entre descontos aplicados e lucro obtido.
 ## Como Executar o Projeto
 
 ### 1. Clonar o repositório
-git clone https://github.com/JoaoAugustoMPdJ/analise-vendas-superstore
+git clone [https://github.com/JoaoAugustoMPdJ/analise-vendas-superstore](https://github.com/JoaoAugustoMPdJ/Portifolio-Analise-de-Sistemas/tree/00018767b99e72dfc72c1ad7485fba2bf8eb1493/Analise%20de%20Dados/Analise%20de%20Vendas%20(Python%20%2B%20Power%20BI))
 
 ### 2. Instalar dependências
 pip install pandas matplotlib
@@ -109,3 +109,4 @@ Este projeto faz parte do meu portfólio profissional com foco em oportunidades 
 - Analista de Dados Júnior  
 - Business Intelligence  
 - Data Analyst  
+
