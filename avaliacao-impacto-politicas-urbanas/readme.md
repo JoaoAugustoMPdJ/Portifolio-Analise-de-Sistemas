@@ -72,6 +72,7 @@ O projeto foi estruturado com foco em **separação de responsabilidades**, faci
 
 
 avaliacao-impacto-politicas-urbanas/
+```bash
 │
 ├── app.py                     # Dashboard Streamlit
 ├── requirements.txt
@@ -94,7 +95,7 @@ avaliacao-impacto-politicas-urbanas/
 │       ├── mobilidade.py
 │       └── seguranca.py
  ---
-
+```
 ##  Interface do Usuário
 
 A aplicação conta com um dashboard interativo desenvolvido com **Streamlit**, permitindo ao usuário:
@@ -114,7 +115,6 @@ pip install -r requirements.txt
 
 streamlit run app.py
 ```
-## BLOCO 9 — Tecnologias Utilizadas
 
 ##  Tecnologias Utilizadas
 
@@ -145,4 +145,5 @@ streamlit run app.py
 João Augusto Moura Peixoto de Jesus
 Recém-formado em Análise e Desenvolvimento de Sistemas  
 Foco em Análise de Dados, Python, SQL e Visualização de Informações
+
 
