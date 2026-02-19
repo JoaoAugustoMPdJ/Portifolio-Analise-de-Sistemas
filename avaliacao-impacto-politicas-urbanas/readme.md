@@ -70,9 +70,8 @@ Atualmente, o projeto utiliza dados simulados inspirados no contexto urbano bras
 O projeto foi estruturado com foco em **separação de responsabilidades**, facilitando manutenção e expansão futura.
 
 
-
-avaliacao-impacto-politicas-urbanas/
 ```bash
+avaliacao-impacto-politicas-urbanas/
 │
 ├── app.py                     # Dashboard Streamlit
 ├── requirements.txt
@@ -94,7 +93,7 @@ avaliacao-impacto-politicas-urbanas/
 │       ├── clima.py
 │       ├── mobilidade.py
 │       └── seguranca.py
- ---
+
 ```
 ##  Interface do Usuário
 
@@ -145,5 +144,6 @@ streamlit run app.py
 João Augusto Moura Peixoto de Jesus
 Recém-formado em Análise e Desenvolvimento de Sistemas  
 Foco em Análise de Dados, Python, SQL e Visualização de Informações
+
 
 
